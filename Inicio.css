@@ -1,0 +1,89 @@
+body {
+	background-color: black;
+
+}
+
+@font-face {
+	font-family: "Roboto"
+
+}
+
+
+#logo{
+	margin-top: 100px;
+}
+
+#barra1 {
+	margin-top: 80px;
+	
+}
+
+#barra1 li{
+	font-size: 1em;
+	text-decoration: none;
+	display: inline-block;
+
+}
+
+
+
+
+
+
+#aceptar{
+	width: 10%;
+	height: 10%;
+	background-color: white;
+	margin-top: 30px;
+	
+
+}
+
+
+#aceptar li{
+	
+	font-size: 1em;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	
+}
+
+
+#registro li{
+	font-size: 1em;
+	text-decoration: none;
+	display: block;
+	color: white;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#click a{
+	font-size: 1em;
+	text-decoration: none;
+	display: block;
+	color: white;
+	
+	text-align: center;
+}
+
+#artista li{
+	font-size: 1em;
+	color: white;
+	text-decoration: none;
+	display: block;
+	
+}
+
+
+
+
+#demandante li{
+	font-size: 1em;
+	text-decoration: none;
+	color: white;
+	display: block;
+	float: right;
+	
+}
